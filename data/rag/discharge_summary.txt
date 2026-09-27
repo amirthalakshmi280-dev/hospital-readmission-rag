@@ -1,0 +1,21 @@
+Patient Discharge Summary
+
+Patient was discharged after treatment for type 2 diabetes and hypertension.
+
+Medications:
+The patient should continue the medications prescribed at discharge.
+Medication doses should be followed exactly as written in the prescription.
+
+Follow-up:
+The patient should attend a follow-up appointment after 2 weeks.
+
+Monitoring:
+The patient should monitor blood glucose regularly and keep a record of readings.
+Blood pressure should also be monitored as advised by the healthcare team.
+
+Diet and activity:
+Follow the diet plan recommended by the healthcare team.
+Maintain regular light physical activity as permitted by the treating clinician.
+
+Warning:
+If the patient develops severe or worsening symptoms, contact the healthcare team or seek appropriate medical care.
