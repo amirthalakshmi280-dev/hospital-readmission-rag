@@ -1,0 +1,9 @@
+patient_id,age,previous_admissions,length_of_stay,expected_risk
+P001,25,0,3,Low
+P002,45,1,5,Medium
+P003,65,2,7,High
+P004,70,3,10,High
+P005,35,0,4,Low
+P006,60,1,6,Medium
+P007,68,2,8,High
+P008,30,0,2,Low
